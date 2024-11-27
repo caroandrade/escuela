@@ -1,8 +1,18 @@
 .cabecera{
  text-align: center; 
  margin-top: 1%;
+ margin-bottom: 2%;
 }
 
+nav{
+    width:800px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    font-family:alegreya-bold;
+   
+    font-size:25px;
+  }
 .nav-item{
     font-size: larger;
 
@@ -18,10 +28,9 @@
     
     padding: 1em 1.5em;
     font-weight: 700;
-    color: white;
-    background-color: #000f9f;
-    font-size: x-large;
-    margin-left: 4%;
+   
+      font-size: x-large;
+    margin-left: 7%;
     border: solid #000f9f;
  }
 
@@ -37,3 +46,8 @@
   font-size: x-large;
  
 } 
+
+.nav-link{
+    color: Blue! important ; 
+   
+}
