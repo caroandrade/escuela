@@ -1,0 +1,39 @@
+.cabecera{
+ text-align: center; 
+ margin-top: 1%;
+}
+
+.nav-item{
+    font-size: larger;
+
+
+}
+
+.foto{
+    margin: 2%; 
+    text-align: center;
+}
+
+.btn {
+    
+    padding: 1em 1.5em;
+    font-weight: 700;
+    color: white;
+    background-color: #000f9f;
+    font-size: x-large;
+    margin-left: 4%;
+    border: solid #000f9f;
+ }
+
+.btn:focus {
+    background-color: white;
+    color: #000f9f;
+    border-color:  #000f9f;
+}
+
+
+.texto{
+    margin-top: 4%;
+  font-size: x-large;
+ 
+} 
